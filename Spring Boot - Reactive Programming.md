@@ -18,3 +18,6 @@ https://www.youtube.com/playlist?list=PLVz2XdJiJQxyB4Sy29sAnU3Eqz0pvGCkD
 
 https://projectreactor.io/docs
 
+---
+
+Add dependency: Spring Reactive Web
