@@ -67,14 +67,14 @@ public String ...
 
 3. Create a new fallback method which takes 'Exception' as parameter
 
+Note: Return type of fallback method should be same as return type of original method.
+
 ```java
 public String fallbackMethodCMS(Exception e) {
   log.warn("XYZ API is not responding. Exception: " + e.getMessage());
   return "fallback";
 }
 ```
-
-Note: Return type of fallback method should be same as return type of original method.
 
 4. Add the following properties to application.yml
 
@@ -116,7 +116,7 @@ resilience4j:
     retry-aspect-order: 2
 ```
 
-Circuit breaker gets a higher priority over retry mechanism, so we set priority using circuit-breaker-aspect-order & retry-aspect-order.
+Circuit breaker gets a higher priority over retry mechanism by default, so we set priority using circuit-breaker-aspect-order & retry-aspect-order.
 
 3 or more calls out of last 5 calls fail -> change from CLOSED to OPEN state
 
