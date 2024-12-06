@@ -37,6 +37,8 @@ https://resilience4j.readme.io/docs/circuitbreaker
 
 https://resilience4j.readme.io/docs/retry
 
+https://resilience4j.readme.io/docs/getting-started-3
+
 **Steps:**
 
 1. Add the following dependencies to pom.xml
