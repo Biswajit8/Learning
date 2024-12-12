@@ -1,0 +1,1 @@
+- `Cmd` + `F12` + `Fn` : show a popup of methods in a class that can be searched
