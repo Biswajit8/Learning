@@ -129,3 +129,24 @@ in HALF-OPEN state, 2 or more calls out of 3 calls fail -> change from HALF-OPEN
 5. Testing
 
 http://localhost:8080/actuator/health
+
+---
+
+**Spring Boot 3.1.0 New Feature | Docker Compose Module**
+
+https://www.youtube.com/watch?v=-7b_jG9RY78
+
+Automatically spin up & destroy docker containers using `docker-compose.yml` without any additional configuration.
+
+https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.1.0-RC1-Release-Notes
+
+<img width="1057" alt="image" src="https://github.com/user-attachments/assets/a6abbdc3-3a47-484a-9b7c-1928b40bdcbb" />
+
+Add the following dependency in `pom.xml`
+
+```xml
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-docker-compose</artifactId>
+</dependency>
+```
