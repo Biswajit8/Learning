@@ -150,3 +150,9 @@ Add the following dependency in `pom.xml`
     <artifactId>spring-boot-docker-compose</artifactId>
 </dependency>
 ```
+
+---
+
+**@EmbeddedId annotation**
+
+@EmbeddedId is employed to denote a composite primary key that comprises multiple columns, useful in scenarios where a single column does not uniquely identify a record.
