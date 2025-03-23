@@ -156,3 +156,8 @@ Add the following dependency in `pom.xml`
 **@EmbeddedId annotation**
 
 @EmbeddedId is employed to denote a composite primary key that comprises multiple columns, useful in scenarios where a single column does not uniquely identify a record.
+
+https://medium.com/jpa-java-persistence-api-guide/hibernate-composite-primary-keys-with-embeddedid-annotation-46a8171e8d22
+
+---
+
