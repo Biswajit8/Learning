@@ -11,6 +11,4 @@ In ElasticSearch, a mapping is like a schema definition for your data. It define
 
 You can use this command to inspect the structure of your data and understand how fields are being indexed.
 
-NOTE: Index is like a DB table in SQL.
-
 ---
