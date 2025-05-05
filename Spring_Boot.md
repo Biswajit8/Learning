@@ -161,3 +161,11 @@ https://medium.com/jpa-java-persistence-api-guide/hibernate-composite-primary-ke
 
 ---
 
+**@Retryable Annotation for Automatic Retries**
+
+Spring’s @Retryable annotation allows methods to automatically retry when they fail due to short-lived problems.
+
+https://medium.com/@AlexanderObregon/using-springs-retryable-annotation-for-automatic-retries-c1d197bc199f
+
+---
+
