@@ -169,3 +169,18 @@ https://medium.com/@AlexanderObregon/using-springs-retryable-annotation-for-auto
 
 ---
 
+**Spring Debugger**
+
+https://www.youtube.com/watch?v=t34TEVx5YuM
+
+https://blog.jetbrains.com/idea/2025/06/demystifying-spring-boot-with-spring-debugger/
+
+- Bean Discovery: Bean Visualization
+- Properties Resolution: Runtime Properties Loading
+- Runtime Evaluator: Spring Expression Evaluator
+- Conditional Logging Breakpoint 
+- Auto Connect Database: Auto-detection of Docker Compose Databases
+- Transaction Inspection: Runtime Transaction Context
+
+---
+
