@@ -1,4 +1,5 @@
 https://github.com/benoit-dubreuil/book-the-one-thing/blob/main/Notes.md
+
 https://github.com/toandv/book_summaries/blob/master/The-One-Thing-by-Gary-Keller-Book-Summary.pdf
 
 ## "If you chase two rabbits, you will not catch either one"
@@ -25,5 +26,25 @@ https://github.com/toandv/book_summaries/blob/master/The-One-Thing-by-Gary-Kelle
 
 ## Part I: The Lies - They mislead and derail us
 
+"It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so."
+
 ### 4. Everything Matters Equally
+- "The things which are most important don't always scream the loudest."
+- While to-dos serve as a useful collection of our best intentions, they also tyrannize us with trivial, unimportant stuff that we feel obligated to get done - because it's on our list. Which is why most of us have a love-hate relationship with our to-dos.
+- Achievers always work from a clear sense of priority.
+- The majority of what you want will come from the minority of what you do.
+- Pareto's 80/20 Principle: 20% effort, 80% results.
+
+  <img width="621" height="262" alt="image" src="https://github.com/user-attachments/assets/d86d2650-226a-4888-8661-ea8916ed25e9" />
+- A to-do list becomes a success list when you apply Pareto's Principle to it.
+- 25 items (5 %) -> 5 items (5 %) -> 1 item
+- Start with as large a list as you want. But develop the mindset that you will whittle your way from there to the critical few and not stop until you end with the essential ONE. The imperative ONE. The ONE Thing.
+- We can't fall prey to the notion that everything has to be done, that checking things off our list is what success is all about.
+- Doing the most important thing is always the most important thing.
+  - Go small.
+  - Go extreme.
+  - Say no.
+  - Don't be trapped in the "check off" game.
+
+### 5. Multitasking
 - 
