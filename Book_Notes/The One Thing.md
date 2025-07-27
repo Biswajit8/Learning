@@ -83,9 +83,21 @@ https://github.com/toandv/book_summaries/blob/master/The-One-Thing-by-Gary-Kelle
 - Do your most important work — your ONE Thing — early.
 
 ### 8. A Balanced Life
+- Purpose, meaning, significance - these are what make a successful life. Seek them and you will most certainly live your life out of balance, criss-crossing an invisible middle line as you pursue your priorities. The act of living a full life by giving time to what matters is a balancing act. Extraordinary results require focused attention and time. Time on one thing means time away from another. This makes balance impossible.
+- If you think of balance as the middle, then out of balance is when you're away from it. Get too far away from the middle and you're living at the extremes.
+- Attend to all things, everything gets shortchanged (unfair treatment) and nothing gets its due.
+- Knowing when to pursue the middle and when to pursue the extremes is in essence the true beginning of wisdom.
+- Magic happens at the extremes.
+- When you gamble with your time, you may be placing a bet you can’t cover.
+- Replace the word "balance" with "counterbalance" and what you experience makes sense.
+- Leaving some things undone is a necessary tradeoff for extraordinary results.
+- Researchers showed that individuals who worked more than 11 hours a day (a 55-plus hour workweek) were 67% more likely to suffer from heart disease.
+- To achieve an extraordinary result you must choose what matters most and give it all the time it demands. This requires getting extremely out of balance in relation to all other work issues, with only infrequent counterbalancing to address them.
+- When you act on your priority, you’ll automatically go out of balance, giving more time to one thing over another.
+- To be able to address your priorities outside of work, be clear about your most important work priority so you can get it done. Then go home and be clear about your priorities there so you can get back to work.
+- Counterbalance your work bucket: View work as involving a skill or knowledge that must be mastered. You will have to take what matters to the extremes and be okay with what happens to the rest.
 
-
-### 
+### 9. Big Is Bad
 
 ### 
 
