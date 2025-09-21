@@ -24,6 +24,8 @@ In the 2024 match between India and England, India won.
 
 RAG makes LLMs more explainable.
 
+If you're building a tool to help customers with your product, or an internal tool for company specific data, you can't use public AI models directly because their knowledge is limited to the publicly available information that they are trained on. RAG provides a way to give the AI a repository of our specific information that it can use as a reference to answer questions or generate information. 
+
 ### Real world applications based on RAG: 
 - Cursor AI which auto-completes code in IDE
 - Google AI Mode
@@ -38,3 +40,12 @@ Steps:
 2. Retrieval - The system searches external knowledge sources (databases, documents, vector stores) to find and fetch the most relevant information that matches the user's query using semantic similarity or keyword matching.
 3. Augmentation - The original user query is enhanced by combining it with the retrieved relevant information, creating an enriched prompt that provides additional context to the language model.
 4. Generation - The large language model uses both the original query and the retrieved contextual information to generate a comprehensive, accurate, and contextually grounded response that addresses the user's question.
+
+---
+
+We’ll build a complete RAG pipeline with Spring Boot
+- Vector Embeddings
+- Using Postgres as a vector database
+- Using Spring AI to generate responses with Gemini and RAG
+
+What are Vector Embeddings?
