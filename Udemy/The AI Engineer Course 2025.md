@@ -1,3 +1,6 @@
+https://365datascience.com/flashcards/introduction-to-ai-flashcards/review/
+
+---
 
 ### Natural vs Artificial Intelligence
 
