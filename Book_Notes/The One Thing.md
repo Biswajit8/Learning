@@ -98,10 +98,45 @@ https://github.com/toandv/book_summaries/blob/master/The-One-Thing-by-Gary-Kelle
 - Counterbalance your work bucket: View work as involving a skill or knowledge that must be mastered. You will have to take what matters to the extremes and be okay with what happens to the rest.
 
 ### 9. Big Is Bad
+- When big is believed to be bad, small thinking rules the day and big never sees the light of it. 
+- No one knows their ultimate ceiling.
+- It's about bold ideas that might threaten your comfort zones but simultaneously reflect your greatest opportunities.
+- The only actions that become springboards to succeeding big are those informed by big thinking to begin with.
 
-### 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ab6442e7-4bcb-4d38-a190-9c938e3bf88d" />
 
-### 
+- Every level of achievement requires its own combination of what you do, how you do it, and who you do it with. 
+- What you build today will either empower or restrict you tomorrow.
+- If courage isn't the absence of fear but moving past it, then thinking big is in the absence of doubts but moving past them. Only living big will let you experience your true life and work potential.
+  - Think big: Set a goal so far above what you want that you will be building a plan that practically guarantees your original goal.
+  - Don’t order from the menu.
+  - Act bold.
+  - Don’t fear failure.
+- Don’t let small thinking cut your life down to size. Think big, aim high, act bold.
+
+## Part II: The Truth - The simple path to productivity
+
+I learned that success comes down to this: being appropriate in the moments of your life. If you can honestly say, “This is where I’m meant to be right now, doing exactly what I’m doing,” then all the amazing possibilities for your life become possible.
+
+### 10. The Focusing Question
+
+- The quality of any answer is directly determined by the quality of the question.
+- Research shows that asking questions improves learning and performance by as much as 150%.
+- Life is a question, and how we live it is our answer. How we phrase the questions we ask ourselves determines the answers that eventually become our life. 
+- The focusing question:
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1ed3c2ea-8a46-467c-b686-c90ed418d7fc" />
+
+- Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. 
+- To stay on track for the best possible day, month, year or career, you must keep asking the Focusing Question.
+- The Focusing Question asks you to find the first domino and focus on it exclusively until you knock it over. Once you have done that, you will discover a line of dominoes behind it, either ready to fall or already down.
+  - Great questions are the path to great answers.
+  - The Focusing Question is a double-duty question.
+  - The Big-Picture Question: "What’s my ONE Thing?".
+  - The Small-Focus Question: "What’s my ONE Thing right now?".
+- Whether you seek answers big or small, asking the focusing question is the ultimate success habit for your life.
+
+### 11. The Success Habit
 
 ### 
 
