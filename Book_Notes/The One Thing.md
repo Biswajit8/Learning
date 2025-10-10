@@ -138,9 +138,73 @@ I learned that success comes down to this: being appropriate in the moments of y
 
 ### 11. The Success Habit
 
-### 
+- Start with the big stuff and see where it takes you. Apply it to the important areas of your life. Spiritual life, physical health, personal life, key relationships, job, business and financial life. Address them in that order. Each one is a foundation for the next. 
 
-### 
+**FOR MY SPIRITUAL LIFE**
+- What’s the ONE Thing I can do to help others… ?
+- What’s the ONE Thing I can do to improve my relationship with God… ?
+
+**FOR MY PHYSICAL HEALTH**
+- What’s the ONE Thing I can do to achieve my diet goals… ?
+- What’s the ONE Thing I can do to ensure that I exercise… ?
+- What’s the ONE Thing I can do to relieve my stress… ?
+
+**FOR MY PERSONAL LIFE**
+- What’s the ONE Thing I can do to improve my skill at… ?
+- What’s the ONE Thing I can do to find time for myself… ?
+
+**FOR MY KEY RELATIONSHIPS**
+- What’s the ONE Thing I can do to improve my relationship with my spouse/partner… ?
+- What’s the ONE Thing I can do to improve my children’s school performance… ?
+- What’s the ONE Thing I can do to show my appreciation to my parents… ?
+- What's the ONE thing I can do to make my family stronger… ?
+
+**FOR MY JOB**
+- What’s the ONE Thing I can do to make my job easier or more productive… ?
+- What’s the ONE Thing I can do to ensure that I hit my goals… ?
+- What’s the ONE Thing I can do to improve my skills… ?
+- What’s the ONE Thing I can do to help my team succeed… ?
+
+**FOR MY CAREER**
+- What’s the ONE Thing I can do to further my career… ?
+
+**FOR MY BUSINESS**
+- What’s the ONE Thing I can do to make us more competitive… ?
+- What’s the ONE Thing I can do to make our product the best… ?
+- What’s the ONE Thing I can do to make us more profitable… ?
+- What’s the ONE Thing I can do to improve our customer experience… ?
+
+**FOR MY FINANCES**
+- What’s the ONE Thing I can do to increase my net worth… ?
+- What’s the ONE Thing I can do to improve my investment cash flow… ?
+- What’s the ONE Thing I can do to eliminate my credit card debt… ?
+
+  - Understand and believe it.
+  - Use it: "What's the ONE Thing I can do today for [whatever you want] such that by doing it everything else will be easier or even unnecessary?"
+  - Make it a habit: Research says this will take about 66 days.
+  - Leverage reminders: “Until my ONE Thing is done - everything else is a distraction.” 
+  - Recruit support.
+
+### 12. The Path to Great Answers
+
+- Low goals don't require extraordinary actions so they rarely lead to extraordinary results.
+- Answers come in three categories: doable, stretch, and possibility.
+- Extraordinary results require a Great Answer. 
+- Highly successful people not only dream of, but deeply crave what is beyond their natural grasp.
+- As with a stretch goal, you can start out by doing research and studying the lives of other high achievers. But you can't stop there. In fact, your search has just begun.
+- "Has anyone else studied or accomplished this or something like it?" The answer is almost always yes, so your investigation begins by finding out what others have learned.
+- Books and published works offer the most in terms of documented research and role models for success. 
+- The research and experience of others is the best place to start when looking for your answer.
+- A new answer usually requires new behavior.
+  - Think big and specific.
+  - Think possibilities.
+  - Benchmark and trend for the best answer.
+
+## Part III: Extraordinary Results - Unlocking the possibilities within you
+
+Great businesses are built one productive person at a time.
+
+### 13. Live With Purpose
 
 ### 
 
