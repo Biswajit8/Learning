@@ -2,7 +2,7 @@
 
 1. Logging: Detailed information about individual things that are ongoing in your application (printing logs for an application)
 2. Metrics: Aggregated information about application features, over a period of time such as application's CPU, network & memory.
-3. Tracing: Sampled information across multiple services (how long each service call took. A single trace displays the operation as it moves from one node to another in a distributed system)
+3. Tracing: Sampled information across multiple services (how long each service call took. A single trace displays the operation as it moves from one node to another in a distributed system. Tracing is beneficial when we have a request which spans across multiple systems)
 
 ---
 
@@ -32,3 +32,4 @@
 Centralized Logging Tools: Tools like Spring Boot Actuator, Spring Boot Admin, and Spring Cloud Config help manage and monitor log levels and formats across multiple Spring applications. Spring Cloud Sleuth adds trace IDs to logs for better correlation across services.
 
 ---
+
