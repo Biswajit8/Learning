@@ -28,6 +28,8 @@ git push
 Create PR in GitHub.
 
 How to link a PR to an issue?
-- In the PR description, write "Fixes #<issue-no>". For e.g., "Fixes #11378".
+- In the PR description, write "Fixes #issue-no". For e.g., "Fixes #11378".
+
+---
 
 Open Source Repo: https://docs.google.com/document/d/172Jtcyp2MgSMmGWlMksAnR572hyC0-lJQjHUCq-15I4/edit?usp=sharing
