@@ -10,12 +10,19 @@ It's always preferred to contribute in an organization / platform which you use 
 
 Google: Java open source projects
 
-Open GitHub repo -> Issues -> Filter by Label "good first issue" or "help wanted" -> Open an issue read the details
+cal.com -> Open GitHub link -> Issues -> Filter by Label "good first issue" or "help wanted" -> Open an issue read the details
 
-Fork repo -> Clone it into local using 'git clone' -> Open in IDE
+Code -> Fork -> Clone it into local using 'git clone' -> Open in IDE
 
 CONTRIBUTING.md contains the steps how to set it up on local to contribute.
 
----
+After executing those steps, create a new branch with name like `fix/issue-number-description`.
+
+```bash
+git checkout -b "fix/11378-change-email-hint-text"
+git add .
+git commit -m "fixed the text for change email hint"
+git push
+```
 
 Open Source Repo: https://docs.google.com/document/d/172Jtcyp2MgSMmGWlMksAnR572hyC0-lJQjHUCq-15I4/edit?usp=sharing
