@@ -1,7 +1,6 @@
 https://www.scaler.com/users/sign_in/
-
-Username: biswa.saha.707+scalergfs@gmail.com
-Password: 5c15c9d2bf80a52d12a3d6de489c4f0b
+- Username: biswa.saha.707+scalergfs@gmail.com
+- Password: 5c15c9d2bf80a52d12a3d6de489c4f0b
 
 If you face any LMS related issues / queries, please write to enterprisesupport@scaler.com
 
