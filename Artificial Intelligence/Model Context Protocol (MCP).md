@@ -19,3 +19,30 @@ Why MCP and not simple REST API?
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f46eff7f-3bc9-4d99-bd17-5ba52c95b664" />
 
+---
+
+MCP allows you to retrieve data from a source and do something with it. It's a protocol that provides context for language models to interact with resources, run tools, etc.
+
+Installation:
+- https://claude.ai/download
+- https://docs.astral.sh/uv/getting-started/installation/#standalone-installer
+
+```
+ set Path=C:\Users\Biswajit\.local\bin;%Path%   (cmd)
+ $env:Path = "C:\Users\Biswajit\.local\bin;$env:Path"   (powershell)
+```
+
+https://github.com/modelcontextprotocol/servers
+
+Terminologies:
+- MCP Host: any application (Claude Desktop, Cursor) that wants to access data through an MCP.
+- MCP Client: an extension to your application that maintains the protocol connection between the application and the MCP server.
+- MCP Server: or simply MCP, is a package of programs that expose some resource either to retrieve data or to do something with that data that the MCP Client can interact with
+- Models means Anthropic's Claude models.
+
+What can MCP's do?
+1. Resources: providing direct access to specific data
+2. Prompts: providing the language model with customized prompt to interact with that data
+3. Tools: performing actions on or with the data
+4. Sampling: allows the MCP Server to request completions from the language model
+5. Roots: define the boundaries inside which the MCP server can operate
