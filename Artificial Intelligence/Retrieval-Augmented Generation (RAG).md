@@ -64,3 +64,40 @@ Behind the scenes, Spring AI retrieved the documents from the pgvector database,
 ### Things to consider if we want to create this kind of system in a production environment:
 1. In our example we use pretty small snippets for each of our documents. If you have a large document, the similarity search may not work as well and you may have to take that document down into smaller pieces. This is known as document chunking and each of these pieces or chunks can then be stored as a separate entry in your vector store. 
 2. Another thing to think about is the quality of your embeddings. The nomic embed text model that we use here is great, but the performance of your RAG system is highly dependent on how well your embedding model understands the nuances of your specific data. So you may want to experiment with other embedding models.
+
+---
+
+```
+docker compose up -d
+docker exec -it pgvector psql -U postgres -d postgres
+```
+
+```sql
+create database rag_demo;
+\c rag_demo;
+CREATE EXTENSION IF NOT EXISTS vector;
+CREATE EXTENSION IF NOT EXISTS hstore; -> to work with JSON data
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp"; -> to save our primary key as UUID
+
+CREATE TABLE IF NOT EXISTS vector_store (
+	id uuid DEFAULT uuid_generate_v4() PRIMARY KEY,
+	content text,
+	metadata json,
+	embedding vector(768)
+);
+```
+
+- uuid -> automatically generated unique string of characters
+- content -> raw text that we want to search for
+- metadata -> used to store additional information about the content
+- embedding -> vector of the content created by our embedding model
+
+The dimension of the vector needs to match the dimension that the embedding model gives us (768 in this case).
+
+```sql
+CREATE INDEX ON vector_store USING HNSW (embedding vector_cosine_ops);
+```
+
+We will also create an index on the embedding field to make the similarity search more efficient.
+
+Hierarchical Navigable Small World (HNSW) is a graph-based algorithm used for efficient Approximate Nearest Neighbor (ANN) search in high‑dimensional vector spaces.
