@@ -206,7 +206,21 @@ Great businesses are built one productive person at a time.
 
 ### 13. Live With Purpose
 
-### 
+- "Life isn't about finding yourself. Life is about creating yourself."
+- Our purpose sets our priority and our priority determines the productivity our actions produce.
+- Who we are and where we want to go determine what we do and what we accomplish.
+- Once we get what we want, our happiness sooner or later wanes because we quickly become accustomed to what we acquire.
+- There are five factors that contribute to our happiness: positive emotion & pleasure, achievement, relationships, engagement & meaning. Of these, engagement & meaning are the most important. Becoming more engaged in what we do by finding ways to make our life more meaningful is the surest way to finding lasting happiness. When our daily actions fulfill a bigger purpose, the most powerful & enduring happiness can happen.
+- Financially wealthy people are those who have enough money coming in without having to work to finance their purpose in life.
+- The prescription for extraordinary results is knowing what matters to you & taking daily doses of actions in alignment with it.
+- When what you do matches your purpose, your life just feels in rhythm, & the path you beat with your feet seems to match the sound in your head & heart.
+- Happiness happens on the way to fulfillment.
+- Discover your Big Why.
+- Absent an answer, pick a direction.
+
+Pick a direction, start matching down that path, & see how you like it. Time brings clarity, & if you find you don't like it, you can always change your mind. It's your life.
+
+### 14. Live by Priority
 
 ### 
 
