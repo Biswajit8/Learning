@@ -260,17 +260,21 @@ Pick a direction, start matching down that path, & see how you like it. Time bri
     - Time block your planning time.
       - Block an hour each week to review your annual and monthly goals.
       - There is magic in knocking down your most important domino day after day.
-Protect your time block.
-Your own need to do other things instead of your ONE Thing may be your biggest challenge to overcome.
-Build a bunker.
-Store provisions.
-Sweep for mines.
-Enlist support.
-Connect the dots.
-Time block your ONE Thing.
-Protect your time block at all costs.
+    - Protect your time block.
+      - The world doesn't know your purpose or priorities and isn't responsible for them - you are. So it's your job to protect your time blocks from all those who don't know what matters most to you, and from yourself when you forget.
+      - In case you must drop what you're doing, follow the rule "If you erase, you must replace" and immediately reschedule your time block.
+      - Your own need to do other things instead of your ONE Thing may be your biggest challenge to overcome.
+      - When stuff pops into your head, just write it down on a task list and get back to what you're supposed to be doing.
+      - Build a bunker.
+      - Store provisions.
+      - Sweep for mines.
+      - Enlist support.
+- Connect the dots.
+- Time block your ONE Thing.
+- Protect your time block at all costs.
 
-### 
+### 16. The Three Commitments
+
 
 ### 
 
