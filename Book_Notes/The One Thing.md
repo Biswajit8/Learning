@@ -222,7 +222,53 @@ Pick a direction, start matching down that path, & see how you like it. Time bri
 
 ### 14. Live by Priority
 
-### 
+- Live with purpose and you know where you want to go. Live by priority and you'll know what to do to get there.
+- Purpose without priority is powerless.
+- The further away a reward is in the future, the smaller the immediate motivation to achieve it.
+
+<img width="350" height="650" alt="image" src="https://github.com/user-attachments/assets/8c9b2f4c-c5e3-42aa-ba57-e2362f53374f" />
+
+- you’re training your mind how to think, how to connect one goal with the next over time until you know the most important thing you must do right NOW.
+- Students who visualized the process performed better across the board.
+- Those who wrote down their goals were `39.5 %` more likely to accomplish them. Writing down your goals and your most important priority is your final step to living by priority.
+- There can only be ONE.
+- Goal Set to the Now.
+- Put pen to paper. 
+
+### 15. Live for Productivity
+
+- Productivity is about priorities, planning, and fiercely protecting your time
+- Productive action transforms lives.
+- Putting together a life of extraordinary results simply comes down to getting the most out of what you do, when what you do matters.
+- A time-managing system's success can be judged by the productivity it produces.
+- The most successful people are the most productive people.
+- My goal is no longer to get more done, but rather to have less to do.
+- Time blocking.
+    - It’s a way of making sure that what has to be done gets done.
+    - If disproportionate results come from one activity, then you must give that one activity disproportionate time.
+ 
+    <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/f0d7bb58-e174-4eb3-b432-6579b53d4cb3" />
+
+    - Time block your time off.
+      - Resting is as important as working.
+    - Time block your ONE Thing.
+      - The dairy farmer doesn't get to knock off at any certain time; he goes home when the cows have been milked.
+      - Block time as early in your day as you possibly can.
+      - Block four hours a day.
+      - Normal business culture gets in the way of the very productivity it seeks because of the way people traditionally schedule their time.
+      - Be a maker in the morning and a manager in the afternoon.
+    - Time block your planning time.
+      - Block an hour each week to review your annual and monthly goals.
+      - There is magic in knocking down your most important domino day after day.
+Protect your time block.
+Your own need to do other things instead of your ONE Thing may be your biggest challenge to overcome.
+Build a bunker.
+Store provisions.
+Sweep for mines.
+Enlist support.
+Connect the dots.
+Time block your ONE Thing.
+Protect your time block at all costs.
 
 ### 
 
