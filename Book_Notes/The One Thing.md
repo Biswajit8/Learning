@@ -275,8 +275,32 @@ Pick a direction, start matching down that path, & see how you like it. Time bri
 
 ### 16. The Three Commitments
 
+- Follow the Path of Mastery.
+  - When you can see mastery as a path you go down instead of a destination you arrive at, it starts to feel accessible and attainable.
+  - More than anything else, expertise tracks with hours invested.
+  - When you commit to time block your ONE Thing, make sure you approach it with a mastery mentality.
+  - The pursuit of mastery bears gifts.
+- Move from "E" to "P".
+  - The path of mastering something is the combination of not only doing the best you can do at it, but also doing it the best it can be done.
+  - E: entrepreneurial.
+  - P: purposeful.
+  - Highly productive people don't accept the limitations of their natural approach as the final word on their success. When they hit a ceiling of achievement, they look for new models and systems, better ways to do things to push them through.
+  - Look for the better models and systems, the ways that can take you farther. Then adopt new thinking, new skills, and new relationships to help you put them into action.
+- Live the Accountability Cycle.
+  - Accountable people achieve results others only dream of.
+  - Being willing to address reality head-on gives you a huge edge.
+  - Highly successful people are clear about their role in the events of their life.
+  - One of the fastest ways to bring accountability to your life is to find an accountability partner. A coach or a mentor is the best choice for an accountability partner.
+  - Individuals who wrote their goals and sent progress reports to friends were 76.7 % more likely to achieve them.
+  - “The single most important difference between these amateurs and the three groups of elite performers is that the future elite performers seek out teachers and coaches.”
+- Commit to be your best.
+- Be purposeful about your ONE Thing.
+- Take ownership of your outcomes.
+- Find a coach.
 
-### 
+### 17. The Four Thieves
+
+-
 
 ### 
 
