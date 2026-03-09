@@ -300,9 +300,37 @@ Pick a direction, start matching down that path, & see how you like it. Time bri
 
 ### 17. The Four Thieves
 
--
+The Four Thieves
+- Inability to Say "No".
+  - When you say yes to something, it’s imperative that you understand what you’re saying no to.
+  - One-half of knowing what you want is knowing what you must give up before you get it.
+  - Each additional obligation chips away at your effectiveness at everything you try.
+  - You can’t please everyone, so don’t try. "I don't know the key to success, but the key to failure is trying to please everybody."
+  - A request must be connected to my ONE Thing for me to consider it.
+  - Your talent and abilities are limited resources. Your time is finite. If you don't make your life about what you say yes to, then it will almost certainly become what you intended to say no to.
+- Fear of Chaos.
+  - One of the greatest thieves of productivity is the unwillingness to allow for chaos or the lack of creativity in dealing with it.
+  - When you strive for greatness, chaos is guaranteed to show up.
+  - Depending on where you are in your life, you may not be able to immediately block off every morning to be by yourself. You may have a kid or a parent in tow. You may be doing your time block at a day care, nursing home, or some other place you have to be.
+- Poor Health Habits.
+  - Personal energy mismanagement is a silent thief of productivity.
+  - High achievement and extraordinary results require big energy.
+  - Productive people thrive on emotional energy; it fills their heart with joy & makes them light on their feet.
+  - In the evening when it's time for bed, **get eight hours of sleep**.
+  - Protect your sleep by determining when you must go to bed each night & don't allow yourself to be lured away from it.
+  - When you spend the early hours energizing yourself, you get pulled through the rest of the day with little additional effort.
+- Environment Doesn’t Support Your Goals.
+  - Your environment must support your goals.
+  - No one succeeds alone and no one fails alone. Pay attention to the people around you.
+  - When you clear the path to success — that’s when you consistently get there.
+- Start saying "no."
+- Accept chaos.
+- Manage your energy.
+- Take ownership of your environment.
 
-### 
+"I cannot believe that the purpose of life is to be happy. I think the purpose of life is to be useful, to be responsible, to be compassionate. It is, above all, to matter, to count, to stand for something, to have made some difference that you lived at all."
+
+### 18. The Journey
 
 ### 
 
