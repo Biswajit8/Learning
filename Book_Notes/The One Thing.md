@@ -332,6 +332,21 @@ The Four Thieves
 
 ### 18. The Journey
 
-### 
+- Write down your current income. Then multiply it by a number: 2, 4, 10, 20 - it doesn't matter. Just pick one, multiply your income by it, and write down the new number. Looking at it and ignoring whether you're frightened or excited, ask yourself, "Will my current actions get me to this number in the next five years?". If they will, then keep doubling the number until they won't. If you then make your actions match your answer, you'll be living large.
+- When you lift the limits of your thinking, you expand the limits of your life.
+- Getting your focus as small as possible simplifies your thinking and crystallizes what you must do.
+- You must survey your choices, narrow your options, line up your priorities, and do what matters most.
+- At any moment in time there can be only ONE Thing.
+- On your way to living a life worth living, doing your best to succeed at what matters most to you not only rewards you with success & happiness but with something even more precious - no regrets.
+- Go live a life worth living where, in the end, you’ll be able to say, “I’m glad I did,” not “I wish I had.”
+- A life worth living might be measured in many ways, but the one way that stands above all others is living a life of no regrets.
+- Live your life to minimize the regrets you might have at the end.
+- I wish I'd had the courage to live a life true to myself, not the life others expected of me.
+- People's actions may be troublesome initially; it is their inactions that plague them most with long-term feelings of regret.
+- Success is an inside job.
+- Put yourself together, and your world falls into place.
+- You are the first domino.
 
-### 
+### Putting the one thing to work
+
+
