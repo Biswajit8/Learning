@@ -17,4 +17,10 @@ Feedly
 
 Create AI Workflows using n8n.io, Make.com
 
+---
 
+- **Generative AI (GenAI)**: LLMs that provide knowledge based on user input, such as generating text, images, or audio.
+
+- **AI Agents**: Systems that add action to knowledge. They utilize a 'brain' (LLM), 'memory' (past history), and 'tools' (APIs or functions) to execute tasks like booking flights or hotels on behalf of the user.
+
+- **Agentic AI**: The most advanced level, which adds ownership and a feedback loop to the AI Agent. It includes planning (breaking user intent into actionable steps), continuous monitoring, and proactive problem-solving (e.g., rebooking if a flight is canceled or a price drops) 
