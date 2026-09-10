@@ -13,6 +13,7 @@ learned from data ≠ hand-written rules
 
 
 ## 2. Generative AI
+AI which can generate content (text, image, audio, video, code)
 
 ## 3. LLM
 
