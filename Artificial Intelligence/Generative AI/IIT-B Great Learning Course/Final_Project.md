@@ -12,11 +12,10 @@ You are required to submit three deliverables for your final project:
 - Recording Format: Use your presentation slides to record your video. Walk through and explain your slides alongside live/recorded demonstrations of your work.
 - Proof of Claims: In the video, you must demonstrate everything you claim. Unsupported claims will not be appreciated. Focus on clearly showcasing what you have actually achieved in the project.
 - Recommended Slide Structure: While you have creative freedom over how you design your slides and video, your presentation should typically follow this flow:
-
-1. Problem Statement
-2. Your Approach to Solve the Problem (overall idea)
-3. Steps of the Solution (Most important section — provide clear details on data collection, model selection, training, deployment, etc.)
-4. Results Achieved
+  1. Problem Statement
+  2. Your Approach to Solve the Problem (overall idea)
+  3. Steps of the Solution (Most important section — provide clear details on data collection, model selection, training, deployment, etc.)
+  4. Results Achieved
 
 2. Project Report Guidelines
 - Depth & Structure: The report must be elaborate and organized into multiple chapters, bringing out all technical and implementation details as thoroughly as possible.
