@@ -1,3 +1,9 @@
+https://harshad-inarkar.github.io/project_group_recsys/
+
+Password: iitb
+
+---
+
 Final Project Deliverables & Faculty Guidelines
 
 You are required to submit three deliverables for your final project:
