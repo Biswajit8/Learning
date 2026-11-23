@@ -79,3 +79,11 @@ Important distinction: Groq is the inference provider, whereas GPT-OSS 20B is th
 | client.chat.completions.create() | REST client call |
 | CustomerResponse | Response DTO |
 | HTTPException | ResponseStatusException |
+
+<img width="550" height="306" alt="image" src="https://github.com/user-attachments/assets/a6d4cfd1-9fc3-4680-bc33-95dd88a6cab7" />
+
+| Approach | How it works |
+| :--- | :--- |
+| Basic LLM | Generates responses using its learned knowledge |
+| Prompt engineering | Uses instructions to constrain responses |
+| RAG | Retrieves external knowledge and supplies it to the LLM |
