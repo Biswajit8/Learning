@@ -90,7 +90,10 @@ Important distinction: Groq is the inference provider, whereas GPT-OSS 20B is th
 
 If someone asks how you chose your chunk size, you can say you inspected the chunks, found title-only and mid-rule splits, and fixed them with structure-aware splitting plus metadata.
 
+```
                      ┌─────────────► knowledge ──► resolution ──► END
 START ──► planner ───┼─────────────► order_status ───────────────► END
                      └──► escalation ◄── (no policy / not covered / delayed order)
+```
+
 
