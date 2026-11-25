@@ -97,4 +97,6 @@ START ──► planner ───┼─────────────► o
                      └──► escalation ◄── (no policy / not covered / delayed order)
 ```
 
+<img width="520" height="652" alt="image" src="https://github.com/user-attachments/assets/35094eae-4457-4969-ac8e-e63d4c892990" />
+
 
