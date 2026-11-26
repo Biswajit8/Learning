@@ -100,3 +100,8 @@ START ──► planner ───┼─────────────► o
 <img width="520" height="652" alt="image" src="https://github.com/user-attachments/assets/35094eae-4457-4969-ac8e-e63d4c892990" />
 
 solid arrows are fixed transitions, dotted arrows are conditional routes decided at runtime, and escalation is reachable from the planner, knowledge, resolution and order_status nodes.
+
+wires it into the graph:
+- /chat accepts a session_id and loads history into the state.
+- The planner and order-status nodes use history, so a bare "ORD1001" resumes the earlier question.
+- The escalation node creates a ticket and returns the ticket ID to the customer.
