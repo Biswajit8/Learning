@@ -102,6 +102,9 @@ START ──► planner ───┼─────────────► o
 solid arrows are fixed transitions, dotted arrows are conditional routes decided at runtime, and escalation is reachable from the planner, knowledge, resolution and order_status nodes.
 
 wires it into the graph:
-- /chat accepts a session_id and loads history into the state.
-- The planner and order-status nodes use history, so a bare "ORD1001" resumes the earlier question.
-- The escalation node creates a ticket and returns the ticket ID to the customer.
+- /chat accepts an optional session_id, loads that session's history, and saves both sides of the exchange.
+- The planner sees the history, so a bare "ORD1001" after "Where is my order?" is classified as order_status.
+- The order-status node falls back to earlier messages to find an order ID.
+- The escalation node creates a ticket and tells the customer the ticket number.
+- A new GET /tickets endpoint lets a human agent see open tickets, and Streamlit can reuse it.
+
