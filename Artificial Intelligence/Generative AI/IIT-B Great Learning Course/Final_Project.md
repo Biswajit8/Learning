@@ -118,3 +118,10 @@ Testing:
 - Regression protection: The title-only chunk bug is now a permanent test, and so are the isolation and routing rules.
 - A clear split: Offline tests verify your own logic deterministically. The LLM tests measure model behavior, which can vary between runs. That distinction is worth stating in your presentation.
 - Safe test data: Every test runs against a throwaway database, so support.db and your demo tickets stay untouched.
+
+Evaluation script:
+- Retrieval quality: whether the correct policy file is the top result (top-1) or among the results (any-of-k).
+- Planner accuracy: whether the predicted intent matches the expected one.
+- Escalation accuracy: whether the system answers or escalates correctly.
+- Fact accuracy, RAG vs plain LLM: whether answers contain the facts the policy states ("10 days", "48 hours", and so on), compared with the Day 1 setup that has no retrieval.
+
