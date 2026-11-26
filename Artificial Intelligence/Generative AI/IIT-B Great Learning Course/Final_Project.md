@@ -125,3 +125,8 @@ Evaluation script:
 - Escalation accuracy: whether the system answers or escalates correctly.
 - Fact accuracy, RAG vs plain LLM: whether answers contain the facts the policy states ("10 days", "48 hours", and so on), compared with the Day 1 setup that has no retrieval.
 
+Limits:
+- You wrote both the policies and the test questions, so the dataset is friendly. A real evaluation would use questions from real customers.
+- Keyword matching is a proxy for correctness. It confirms the key fact is present, not that the whole answer is faithful. A manual review of a few answers is worth adding.
+- 22 questions is a small sample, so treat the percentages as indicative, not precise.
+
