@@ -130,3 +130,4 @@ Limits:
 - Keyword matching is a proxy for correctness. It confirms the key fact is present, not that the whole answer is faithful. A manual review of a few answers is worth adding.
 - 22 questions is a small sample, so treat the percentages as indicative, not precise.
 
+the first evaluation run reported 93% fact accuracy. Inspecting the failing answer showed that the model's output used a Unicode narrow no-break space, which defeated exact string matching. You normalized text in the checker and re-ran. That's a true account, and it shows you examined a failure before deciding what it meant. It also supports a point about LLM evaluation in general: output text can differ from what you see on screen, so checkers need normalization.
