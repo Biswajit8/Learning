@@ -114,3 +114,7 @@ Two notes
 
 It's worth mentioning in your presentation that sessions are isolated by ID. You can also confirm it in the sidebar. The session ID shown there should change every time you click the button.
 
+Testing:
+- Regression protection: The title-only chunk bug is now a permanent test, and so are the isolation and routing rules.
+- A clear split: Offline tests verify your own logic deterministically. The LLM tests measure model behavior, which can vary between runs. That distinction is worth stating in your presentation.
+- Safe test data: Every test runs against a throwaway database, so support.db and your demo tickets stay untouched.
