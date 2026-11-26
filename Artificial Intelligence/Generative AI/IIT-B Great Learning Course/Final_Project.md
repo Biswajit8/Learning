@@ -108,3 +108,6 @@ wires it into the graph:
 - The escalation node creates a ticket and tells the customer the ticket number.
 - A new GET /tickets endpoint lets a human agent see open tickets, and Streamlit can reuse it.
 
+Two notes
+1. Every escalation in eval_repeat.py now creates a ticket, so support.db will fill with test tickets. Delete support.db before demos. It's recreated automatically on startup.
+2. The order-status node reuses the most recent order ID in the session. If a customer later asks about a different order without giving its ID, they'd get the earlier one. That's fine for a demo, but worth stating in your limitations section.
