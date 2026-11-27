@@ -139,3 +139,9 @@ Check these before you commit:
 - Evaluation table: It uses your final numbers. If you re-run run_eval.py with extra hard cases, update the table with whatever you get, even if it's lower. A "known weaknesses" line built from real failures makes the project more credible.
 - Limitations: I wrote these from what we found. Add anything you've noticed yourself.
 
+Presentation preparation:
+- Why RAG? Your Day 1 experiment showed the model inventing a refund policy.
+- How did you choose the chunking and the threshold? You inspected chunks and measured scores.
+- How do you stop hallucination? The prompt rules help, but the wrong-refund regression showed they aren't enough, so escalation is routed deterministically.
+- How did you evaluate it, and what are the weak spots? You found a bug in your own checker, and the test set is small and synthetic.
+
