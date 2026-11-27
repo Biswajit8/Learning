@@ -153,3 +153,10 @@ Presentation preparation:
 - How do you stop hallucination? The prompt rules help, but the wrong-refund regression showed they aren't enough, so escalation is routed deterministically.
 - How did you evaluate it, and what are the weak spots? You found a bug in your own checker, and the test set is small and synthetic.
 
+Presentation prep:
+- Problem (30 s). On Day 1 the plain LLM invented a refund policy, with a timeline and a phone number. That's unacceptable for support.
+- Approach (60 s). RAG for grounding, plus a LangGraph workflow so decisions are explicit, with escalation as a first-class outcome.
+- Three things you learned (90 s). Chunking looked fine until you read the output (title-only chunks). The prompt rule alone wasn't enough to make escalation reliable, so it became a routing decision. Your own evaluation checker had a bug that hid correct answers.
+- Results (60 s). The table, with the 100% vs 39% comparison, and an honest line about the small, synthetic test set.
+- Live demo (60 s). Damaged item, then the order-ID follow-up, then an escalation with a ticket.
+
