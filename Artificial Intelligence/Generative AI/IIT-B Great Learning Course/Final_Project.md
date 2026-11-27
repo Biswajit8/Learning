@@ -114,6 +114,14 @@ Two notes
 
 It's worth mentioning in your presentation that sessions are isolated by ID. You can also confirm it in the sidebar. The session ID shown there should change every time you click the button.
 
+Test the six scenarios from your project brief:
+- My product arrived damaged. What should I do?
+- Can I return a product after 15 days?
+- Where is my order? (then reply ORD1001)
+- I want to cancel my order.
+- I received a refund, but the amount is incorrect.
+- I am unhappy with your service. I want to speak to a human.
+
 Testing:
 - Regression protection: The title-only chunk bug is now a permanent test, and so are the isolation and routing rules.
 - A clear split: Offline tests verify your own logic deterministically. The LLM tests measure model behavior, which can vary between runs. That distinction is worth stating in your presentation.
