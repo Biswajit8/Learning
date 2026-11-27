@@ -133,3 +133,9 @@ Limits:
 - the first evaluation run reported 93% fact accuracy. Inspecting the failing answer showed that the model's output used a Unicode narrow no-break space, which defeated exact string matching. You normalized text in the checker and re-ran. That's a true account, and it shows you examined a failure before deciding what it meant. It also supports a point about LLM evaluation in general: output text can differ from what you see on screen, so checkers need normalization.
 - Fixing the checker raised the plain-LLM baseline from 21% to 39%, because the same Unicode-space problem was understating it too. RAG now scores 28/28 (100%) vs 11/28 (39%). The baseline still gets some right by coincidence on generic terms like "email" or "replacement". The real signal is that without retrieval it can't state your specific rules (a 10-day window, 48-hour reporting, the Rs 100 fee).
 
+Check these before you commit:
+- Files listed in the structure tree: Remove any that don't exist in your folder, and add any I missed.
+- Setup details: The README says Python 3.11+ and a ~70 MB embedding download (your log showed 67 MB). Both match what you saw, but confirm them.
+- Evaluation table: It uses your final numbers. If you re-run run_eval.py with extra hard cases, update the table with whatever you get, even if it's lower. A "known weaknesses" line built from real failures makes the project more credible.
+- Limitations: I wrote these from what we found. Add anything you've noticed yourself.
+
